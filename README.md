@@ -1,3 +1,7 @@
+[Report](https://github.com/bekX0/Deep-Fake-Detection/blob/main/report/DFVD_report.pdf)
+
+---
+
 # Setup & Execution Instructions
 
 This repository implements deepfake detection using transfer learning with EfficientNet models on a subset of the DFDC dataset.
